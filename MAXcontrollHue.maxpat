@@ -218,7 +218,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 189.5, 158.5, 54.0 ],
-									"saturation" : 0.945098
+									"saturation" : 0.0
 								}
 
 							}
@@ -1295,7 +1295,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.792326, 0.956694, 0.95476, 1.0 ],
+					"bgcolor" : [ 0.127953, 0.127953, 0.127953, 1.0 ],
 					"id" : "obj-63",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -1433,7 +1433,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 189.5, 158.5, 54.0 ],
-									"saturation" : 0.945098
+									"saturation" : 0.0
 								}
 
 							}
@@ -2510,7 +2510,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.613678, 0.420623, 0.967612, 1.0 ],
+					"bgcolor" : [ 0.009843, 0.009843, 0.009843, 1.0 ],
 					"id" : "obj-79",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -2648,7 +2648,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 189.5, 158.5, 54.0 ],
-									"saturation" : 0.384314
+									"saturation" : 0.0
 								}
 
 							}
@@ -3725,7 +3725,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.362206, 0.629481, 0.279968, 1.0 ],
+					"bgcolor" : [ 0.037402, 0.037402, 0.037402, 1.0 ],
 					"id" : "obj-92",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -3905,7 +3905,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 189.5, 158.5, 54.0 ],
-									"saturation" : 0.533333
+									"saturation" : 0.537255
 								}
 
 							}
@@ -4982,7 +4982,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.211629, 0.191076, 0.627822, 1.0 ],
+					"bgcolor" : [ 0.167608, 0.556801, 0.506435, 1.0 ],
 					"id" : "obj-60",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -5120,7 +5120,7 @@
 									"outlettype" : [ "", "float" ],
 									"parameter_enable" : 0,
 									"patching_rect" : [ 50.0, 189.5, 158.5, 54.0 ],
-									"saturation" : 0.870588
+									"saturation" : 1.0
 								}
 
 							}
@@ -6197,7 +6197,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.863599, 0.935294, 0.064706, 1.0 ],
+					"bgcolor" : [ 0.850394, 0.700324, 0.0, 1.0 ],
 					"id" : "obj-43",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -6342,7 +6342,7 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 191.8125, 40.5, 181.4375, 38.0 ],
+					"patching_rect" : [ 191.8125, 40.5, 182.0, 38.0 ],
 					"style" : "",
 					"text" : "newdeveloper"
 				}
@@ -6368,7 +6368,7 @@
 					"maxclass" : "comment",
 					"numinlets" : 1,
 					"numoutlets" : 0,
-					"patching_rect" : [ 376.0, 15.0, 278.0, 127.0 ],
+					"patching_rect" : [ 346.25, 10.5, 278.0, 127.0 ],
 					"style" : "",
 					"text" : "MAXControllHue1.0.1\nhttps://www.meethue.com/api/nupnp\nへブラウザからアクセスして、\naccess this url on browser\nHueBridgeのipアドレスを調べてください。\nCheck ip Address of HueBridge\n\nhttp://ryufurusawa.com"
 				}
@@ -6808,7 +6808,7 @@
 					"numoutlets" : 4,
 					"outlettype" : [ "", "int", "", "" ],
 					"parameter_enable" : 0,
-					"patching_rect" : [ 10.25, 40.5, 179.136169, 38.0 ],
+					"patching_rect" : [ 10.25, 40.5, 180.0, 38.0 ],
 					"style" : "",
 					"text" : "192.168.0.2"
 				}
@@ -7623,7 +7623,7 @@
 , 			{
 				"box" : 				{
 					"angle" : 0.0,
-					"bgcolor" : [ 0.338583, 0.338583, 0.338583, 1.0 ],
+					"bgcolor" : [ 0.005906, 0.005906, 0.005906, 1.0 ],
 					"id" : "obj-19",
 					"maxclass" : "panel",
 					"mode" : 0,
@@ -8527,7 +8527,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "setHueXHTML.js",
-				"bootpath" : "~/Dropbox/maxmsp/hueControll_byMax7",
+				"bootpath" : "~/Dropbox/githubProject/MAXControllHue",
 				"type" : "TEXT",
 				"implicit" : 1
 			}
